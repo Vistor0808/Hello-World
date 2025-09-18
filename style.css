@@ -8,6 +8,10 @@ body{
     color: green;
 }   
 .Nikho{
+    text-decoration: underline;
+    text-decoration-color: brown;
+    padding: auto;
+    margin: 10px;
     color: red;
 }
 li{
@@ -19,10 +23,16 @@ a{
 td{
     color: purple;
 }
-th{
-    color: ;
-}
-table, th, td {
+
+table,th,td {
     border: 2px solid white;
     border-collapse: collapse;
   }
+h1{
+    color: brown; 
+}
+h1 time{
+    font-size: 13px;
+    color: black;
+    margin-left: 10px;
+}
