@@ -11,4 +11,7 @@ let age = prompt("How old re you?",)
 alert(`You are ${age} years old!`)
  let isBoss = confirm("Are you the boss?",)
  alert(isBoss)
- 
+ let value =   "false"
+ value = Number(value)
+ alert(value) 
+ alert(Boolean("0"))
